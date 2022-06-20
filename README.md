@@ -36,8 +36,7 @@ Windows Terminal is a great tool when it comes to using Command Line Interfaces.
 - In Terminal run: `Set-PoshPrompt`
 
 ### Install Nerd Fonts
-- Go to Nerdfonts.com
-- Download Caskaydia Cove Nerd Font
+- Download CascadiaCode file or go to Nerdfonts.com and download Caskaydia Cove Nerd Font
 - Install Fonts in zip file
 
 - In Windows Terminal
